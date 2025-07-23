@@ -1,12 +1,24 @@
 ## Hi there 👋
 
-<!--
+## Release cycle
 
-**Here are some ideas to get you started:**
+### Feature selection
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Every month on 21st, we take the features that are highly voted.
+We mark them, if they are ready to be released in next cycle. We release a new version every 20th of the month.
+ 
+### Version Strategy
+
+YYYY.MM, for example: 2025.07 for July release
+ 
+### Tags and their meanings
+
+| **Tag**              	| **Description**               	|
+|----------------------	|-------------------------------	|
+| feature              	| New feature                   	|
+| bugfix               	| Fixing a bug                  	|
+| improvement          	| Enhancing existing feature    	|
+| ready-for-vote       	| Proposed for voting           	|
+| selected-for-release 	| Approved for next release     	|
+| deferred             	| Postponed to a future release 	|
+| released-in-vYYYY.MM 	| Feature released in version   	|
